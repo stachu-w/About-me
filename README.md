@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kaya
-- 👀 I’m interested in DevOps, Windows and Linux administrations, running, swimming, gardening, gym, waterpipe with friends, sauna, German learning, tabble tennis and paiting. 
+- 👀 I’m interested in DevOps, Windows and Linux administrations, running, swimming, gardening, gym, waterpipe with friends, sauna, German learning, table tennis and paiting. 
 - 🌱 I’m currently learning java nad server application/web development. 
-- 💞️ I’m looking to collaborate on any java project, not picky. 
+- 💞️ I’m looking to collaborate on any Java project, not picky. 
 - 📫 How to reach me: Karolina Margistan on FB or stachu.w on instagram. 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I do not like the taste of berries in anything, but i like to taste them fresh, without anything added. I love lemon and mint lemonade. It reminds me of summer, my favourite season. 
