@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Kaya
-- 👀 I’m interested in DevOps, Windows and Linux administrations, running, swimming, gardening, gym, waterpipe with friends, sauna, German learning, table tennis and paiting. 
-- 🌱 I’m currently learning java nad server application/web development. 
-- 💞️ I’m looking to collaborate on any Java project, not picky. 
-- 📫 How to reach me: Karolina Margistan on FB or stachu.w on instagram. 
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I do not like the taste of berries in anything, but i like to taste them fresh, without anything added. I love lemon and mint lemonade. It reminds me of summer, my favourite season. 
+### Hi there, I'm @Kaya!
+
+- **Interests:** DevOps, Windows & Linux administration, running, swimming, gardening, working out, enjoying hookah with friends, going to the sauna, learning German, skiing, and painting.  
+- **Currently Learning:** Java and server/web application development.  
+- **Collaboration:** Open to contributing to any Java project.  
+- **Contact:** Find me as “Karolina Margistan” on Facebook or “stachu.w” on Instagram.  
+- **Pronouns:** she/her  
+- **Fun Fact:** I’m not a fan of berry-flavored products, but I love fresh berries. I also enjoy lemon and mint lemonade—it reminds me of summer, my favorite season.
 
 <!---
 stachu-w/About-me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
